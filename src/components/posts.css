@@ -1,0 +1,14 @@
+#postname{
+    margin: 0px;
+    position: relative;
+    top: -20px;
+    padding: 0px;
+    font-size: 30px;
+}
+#postTweet{
+    font-size: 25px;
+}
+.jumbotron{
+   background-color: white;
+    height: auto;
+}

@@ -1,0 +1,10 @@
+#dp {
+    height: 250px;
+    position: relative;
+    left: 20px;
+}
+
+#name{
+    font-family: sans-serif;
+    font-size: 20px;
+}
