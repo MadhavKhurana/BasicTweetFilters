@@ -128,7 +128,7 @@ class Posts extends Component {
                                 <p id="postname">{d.name}</p>
                                 <p id="postTweet">{d.tweet}</p>
                             </div>
-                        );
+                        );   
                     })}
             </div>
         );
